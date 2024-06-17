@@ -11,7 +11,7 @@ Projede tek veri tabanı üzerinden iki taraflı yönetim mevcuttur(web-app) 1. 
 + MySQL(wamp)<br/>
 + Session<br/>
 + Login & Register<br/>
-[C# App](https://github.com/Tunc4532/SahibineOtoGaleri)</br>
+[C# App](https://github.com/Tunc4532/SahibineOtoGaleri) 
 [Linkedln](https://www.linkedin.com/feed/update/urn:li:activity:7207359420815618048/)
 
 ## Images <br/>
