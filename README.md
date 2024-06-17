@@ -1,4 +1,4 @@
-# PHP Sahibinden - WewUI
+# PHP Sahibinden - WebUI
 
 ## Description <br/>
 PHP kullanarak yaptığım bu projemde veri tabanı olarak MySQL kullandım.
