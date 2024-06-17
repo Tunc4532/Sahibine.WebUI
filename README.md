@@ -1,4 +1,4 @@
-# c# Ado.Net Sahibinden - Forms App
+# PHP Sahibinden - WewUI
 
 ## Description <br/>
 PHP kullanarak yaptığım bu projemde veri tabanı olarak MySQL kullandım.
